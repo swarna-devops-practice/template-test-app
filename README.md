@@ -1,3 +1,4 @@
+Testing protected main branch.
 # Application Template
 
 This repository is the standard application template managed by the Platform Engineering team.
