@@ -1,4 +1,4 @@
-fibnaaal
+approval from platform team
 # Application Template
 sdsf
 This repository is the standard application template managed by the Platform Engineering team.
