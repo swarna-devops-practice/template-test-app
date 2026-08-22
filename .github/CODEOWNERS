@@ -1,0 +1,7 @@
+* @swarna-devops-practice/developers-team
+
+.github/ @swarna-devops-practice/platform-team
+
+.github/workflows/ @swarna-devops-practice/platform-team
+
+.github/CODEOWNERS @swarna-devops-practice/security-team
